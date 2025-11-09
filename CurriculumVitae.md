@@ -31,8 +31,7 @@ Results-driven **Senior Software Engineer** with 5+ years of experience designin
 ### **Software Engineer | Windowmaker Software Ltd, India**  
 *Aug 2022 – Jul 2024*  
 - Designed and developed scalable **Windows and web applications** in .NET.  
-- Optimized SQL queries, improving application response times by **30%**.  
-- Integrated **Azure DevOps CI/CD pipelines**, reducing release time by **40%**.  
+- Optimized SQL queries, improving application response.  
 - Collaborated with QA and support teams for efficient bug resolution and feature rollout.
 
 ### **Full Stack Developer | ThinkSense.ai, Vadodara, India**  
