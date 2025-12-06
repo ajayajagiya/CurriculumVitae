@@ -1,6 +1,6 @@
 # AJAY AJAGIYA
 **Senior Software Engineer | Full Stack Developer (.NET | Azure | SQL)**  
-📧 ajagiyaajayk@gmail.com | 📞 +91 7041688813 | 📍 Vadodara  | [LinkedIn](https://www.linkedin.com/in/ajagiyaajay) | [Portfolio](https://ajayajagiya.github.io/BlueTheLocalGuide)
+📧 ajagiyaajayk@gmail.com | 📞 +91 7041688813 | 📍 Vadodara  | [LinkedIn](https://www.linkedin.com/in/ajagiyaajay) | [Portfolio](https://ajayajagiya.github.io/Bluez360)
 
 ---
 
@@ -57,7 +57,7 @@ Results-driven **Senior Software Engineer** with 5+ years of experience designin
 ---
 
 ## 🌐 Portfolio
-**Blue The Local Guide – Founder & 360° Virtual Tour Creator**  
+**Bluez360 – Founder & 360° Virtual Tour Creator**  
 - Created immersive **Google-certified 360° virtual tours** for local businesses to enhance their digital visibility.  
 - Utilized professional-grade photography, Google Maps integration, and web publishing for virtual experiences.
 
