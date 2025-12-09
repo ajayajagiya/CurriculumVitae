@@ -65,6 +65,12 @@ Results-driven **Senior Software Engineer** with 5+ years of experience designin
 
 ## 🏅 Achievements & Certifications
 - **Google Certified 360° Virtual Tour Creator**  
+- **Google Prompting Essentials** - Coursera (Verification ID: 5XAJFTMHU345)
+- **Start Writing Prompts like a Pro** - Coursera (Verification ID: JQ330JDJ42SU)
+- **Design Prompts for Everyday Work Tasks** - Coursera (Verification ID: 0EJ5MLGCA9QP)
+- **Use AI as a Creative or Expert Partner** - Coursera (Verification ID: 01U5B9IFU91K)
+- **Speed Up Data Analysis and Presentation Building** - Coursera (Verification ID: 1YM4FP4ZPV2X)
+- **AI Workflow: Enterprise Model Deployment** - Coursera (Verification ID: KGI82DGYSDAI)
 - **Runner-Up**, Table Tennis – MSU Sport Carnival (2018–2019)
 
 ---
