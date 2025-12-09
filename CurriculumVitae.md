@@ -66,6 +66,7 @@ Results-driven **Senior Software Engineer** with 5+ years of experience designin
 ## 🏅 Achievements & Certifications
 - **Google Certified 360° Virtual Tour Creator**  
 - **Google Prompting Essentials** - Coursera (Verification ID: 5XAJFTMHU345)
+- **Introduction to AI for Cybersecurity** - Coursera (Verification ID: 778GZW6X6HF7)
 - **Start Writing Prompts like a Pro** - Coursera (Verification ID: JQ330JDJ42SU)
 - **Design Prompts for Everyday Work Tasks** - Coursera (Verification ID: 0EJ5MLGCA9QP)
 - **Use AI as a Creative or Expert Partner** - Coursera (Verification ID: 01U5B9IFU91K)
