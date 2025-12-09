@@ -1,13 +1,13 @@
 # AJAY AJAGIYA
-**Senior Software Engineer | Full Stack Developer (.NET | Azure | SQL)**  
+**Senior Software Engineer | Full Stack Developer (.NET | Azure/AWS | SQL | EF | ADO.NET)**  
 📧 ajagiyaajayk@gmail.com | 📞 +91 7041688813 | 📍 Vadodara  | [LinkedIn](https://www.linkedin.com/in/ajagiyaajay) | [Portfolio](https://ajayajagiya.github.io/Bluez360)
 
 ---
 
 ## 💼 Professional Summary
-Results-driven **Senior Software Engineer** with 5+ years of experience designing and delivering **enterprise-grade .NET applications**. Proven expertise in **C#, ASP.NET, Web APIs, SQL Server, and Azure** with strong focus on scalability, performance, and automation. Adept at leading development teams, architecting solutions, and mentoring engineers. Passionate about **cloud technologies, full-stack development, and process automation**.
+Results-driven **Senior Software Engineer** with 5+ years of experience designing and delivering **enterprise-grade .NET applications**. Proven expertise in **C#, ASP.NET, Web APIs, SQL Server, Entity Framework, ADO.NET and AWS/Azure** with strong focus on scalability, performance, and automation. Adept at leading development teams, architecting solutions, and mentoring engineers. Passionate about **cloud technologies, full-stack development, and process automation**.
 
-**Core Competencies:** .NET Development | API Design | Cloud (AWS/Azure) | SQL Optimization | RPA | Automation Systems | Agile Methodologies | Team Leadership
+**Core Competencies:** .NET Development | API Design | Cloud (Azure/AWS) | SQL Optimization | RPA | Automation Systems | Agile Methodologies | Team Leadership
 
 ---
 
@@ -65,7 +65,7 @@ Results-driven **Senior Software Engineer** with 5+ years of experience designin
 
 ## 🏅 Achievements & Certifications
 - **Google Certified 360° Virtual Tour Creator**  
-- **Runner-Up**, Table Tennis – MSU Sport Carnival (2018–2019)  , Windowmaker software ()
+- **Runner-Up**, Table Tennis – MSU Sport Carnival (2018–2019)
 
 ---
 
